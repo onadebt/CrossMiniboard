@@ -1,4 +1,4 @@
-import 'package:cross_miniborad/tile.dart';
+import 'package:cross_miniboard1/tile.dart';
 import 'package:flutter/material.dart';
 
 class CrossMiniboard extends StatelessWidget {
